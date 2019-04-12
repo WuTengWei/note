@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attitudes_count</key>
+	<integer>1</integer>
+	<key>comments_count</key>
+	<integer>0</integer>
+	<key>created_ar</key>
+	<string>刚刚</string>
+	<key>idstr</key>
+	<string>12345678910</string>
+	<key>pic_urls</key>
+	<array>
+		<dict>
+			<key>thumbnail_pic</key>
+			<string>www.baidu.com</string>
+		</dict>
+	</array>
+	<key>reposts_count</key>
+	<integer>2</integer>
+	<key>source</key>
+	<string>来自外星</string>
+	<key>text</key>
+	<string>哈哈哈哈哈</string>
+	<key>user</key>
+	<dict>
+		<key>mbrank</key>
+		<integer>6</integer>
+		<key>mbtype</key>
+		<integer>12</integer>
+		<key>name</key>
+		<string>hello123</string>
+		<key>vip</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
